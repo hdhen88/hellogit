@@ -17,6 +17,7 @@ public class HelloGit {
 
         System.out.println("吓死大家都");
         System.out.println("新添加");
+        System.out.println("添加了");
         
     }
 }

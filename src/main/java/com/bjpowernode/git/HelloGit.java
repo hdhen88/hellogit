@@ -20,6 +20,7 @@ public class HelloGit {
         System.out.println("添加了");
 
         System.out.println("分支操作");
+        System.out.println("增加了功能");
         
     }
 }

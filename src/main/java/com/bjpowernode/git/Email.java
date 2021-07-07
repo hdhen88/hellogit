@@ -8,4 +8,5 @@ package com.bjpowernode.git;
 public class Email {
     private String name;
     private String email;
+    private int age;
 }
